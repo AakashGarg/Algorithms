@@ -1,9 +1,12 @@
+//including header files
 #include<stdio.h>
 
+//test function
 void f(int *a){
 	(*a)++;
 }
 
+//main function
 int main(){
 	int i = 1, x = 1;
 	while(x<=1000){
