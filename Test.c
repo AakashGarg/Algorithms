@@ -1,7 +1,6 @@
 //including header files
 #include<stdio.h>
 
-//test function
 void f(int *a){
 	(*a)++;
 }
